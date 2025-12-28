@@ -117,12 +117,16 @@ SQL queries were used to:
 - Power BI interactive dashboard
 - Python-based exploratory data analysis (EDA)
 - Sales forecasting and predictive modeling
-
+- 
 ---
 
 ## 👩‍💻 Author
 **Seema Kumari**  
 Aspiring Data Analyst  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:kriseema87@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/seema-kumari-375763308/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/seema-kri)
+
 
 **Skills:** Excel | SQL | Power BI | Python | Statistics  
 
